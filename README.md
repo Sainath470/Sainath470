@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm A V SAINATH 👋  
 
-💻 **Backend Developer** with 3.5 years of experience building **Laravel-based applications** and REST APIs. I specialize in **API performance optimization**, database query tuning, and delivering scalable backend solutions.  
+💻 **Backend Developer** building **Laravel-based applications** and REST APIs. I specialize in **API performance optimization**, database query tuning, and delivering scalable backend solutions.  
 
 🔹 Passionate about **secure API development**, **database optimization**, and improving application efficiency.  
 🔹 Strong experience collaborating with frontend teams and QA using **Postman collections** for smooth integration.  
@@ -25,6 +25,7 @@
 
 ### 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sainath470&show_icons=true&theme=default)  
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainath470&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath470&layout=compact)  
 
 ---
