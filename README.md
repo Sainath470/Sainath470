@@ -8,7 +8,7 @@
 ---
 
 ### 🛠 Tech Stack  
-- **Languages & Frameworks:** PHP, Laravel, Livewire, JavaScript, Vue.js  
+- **Languages & Frameworks:** PHP, JAVA, PYTHON, Laravel, Livewire 
 - **Databases:** MySQL, Redis  
 - **Servers & Tools:** Apache, Nginx, Supervisor, Linux  
 - **Other:** Postman, APIato Framework, Blade Templates, REST API Development  
@@ -27,14 +27,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sainath470&theme=default)
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainath470&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath470&layout=compact)
-![2023 Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sainath470&year=2023&theme=default)
-![2022 Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sainath470&year=2022&theme=default)
-![2021 Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sainath470&year=2021&theme=default)
-
-
----
-
-### 📫 Connect with Me  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Portfolio / Website:** [Your Website URL]  
-- **Email:** [Your Email]  
