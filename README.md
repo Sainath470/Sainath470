@@ -24,8 +24,8 @@
 ---
 
 ### 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sainath470&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath470&layout=compact)  
 
 ---
 
