@@ -28,6 +28,8 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sainath470&show_icons=true&theme=default)  
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainath470&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath470&layout=compact)  
+![GitHub Chart](https://ghchart.rshah.org/Sainath470)
+
 
 ---
 
