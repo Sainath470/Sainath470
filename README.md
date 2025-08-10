@@ -22,8 +22,3 @@
 - **Job Portal & Grocery Store APIs** – Search, order management, and core backend operations.  
 
 ---
-
-### 📈 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Sainath470&theme=default)
-![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainath470&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath470&layout=compact)
