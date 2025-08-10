@@ -25,10 +25,11 @@
 
 ### 📈 GitHub Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sainath470&theme=default)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sainath470&show_icons=true&theme=default)  
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainath470&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath470&layout=compact)  
-![GitHub Chart](https://ghchart.rshah.org/Sainath470)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath470&layout=compact)
+![2023 Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sainath470&year=2023&theme=default)
+![2022 Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sainath470&year=2022&theme=default)
+![2021 Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sainath470&year=2021&theme=default)
 
 
 ---
